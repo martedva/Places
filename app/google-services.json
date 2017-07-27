@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566404440700",
+    "firebase_url": "https://placesapp-3056a.firebaseio.com",
+    "project_id": "placesapp-3056a",
+    "storage_bucket": "placesapp-3056a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566404440700:android:b721a43740f6cf58",
+        "android_client_info": {
+          "package_name": "maedentertainment.places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566404440700-rbqkrtt1urrgrkniqfsl7plpbqfg6064.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhFyc0o9ALXuPwm8JCG6iESMuZNQ6xFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
